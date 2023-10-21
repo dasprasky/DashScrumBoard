@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DashScrumBoard</string>
+    <string name="create_task">Create</string>
+    <string name="add_task">Add Task</string>
+    <string name="update_task">Update</string>
+</resources>

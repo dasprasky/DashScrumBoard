@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52815448564",
+    "project_id": "dashscrumboard",
+    "storage_bucket": "dashscrumboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52815448564:android:3437e2aa87bbf45b4fd1a1",
+        "android_client_info": {
+          "package_name": "com.example.dashscrumboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52815448564-og9bgkib3v18e6kjune7s85iim6cfpnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2SyB3-EtRk5QUxbXwrO0jOFt1yvhVp5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52815448564-og9bgkib3v18e6kjune7s85iim6cfpnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
